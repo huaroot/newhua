@@ -8,7 +8,8 @@ import java.sql.SQLException;
 import org.landxaio.dao.Login;
 
 
-//aaaaa知识点回顾
+//aaaaa知识点回顾 
+//这是远程仓库修改的代码。
 public class loginDao {
 	public int login(Login login) {
 		String URL ="jdbc:mysql://localhost:3306/cms";
