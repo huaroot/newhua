@@ -1,11 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-5"
+    pageEncoding="ISO-8859-5"%>
 <%@ page import="com.Dao.loginDao" %>  
 <%@ page import="org.landxaio.dao.Login" %>  
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="UTF-8">
+<meta charset="ISO-8859-5">
 <title>Insert title here</title>
 </head>
 <body>
