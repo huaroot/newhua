@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>在此处插入标题</title>
 </head>
 <body>
 插入数据：	
