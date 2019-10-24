@@ -4,10 +4,14 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>在此处插入标题</title>
 </head>
 <body>
+<<<<<<< HEAD
 更新数据：
+=======
+插入数据：	
+>>>>>>> branch 'master' of git@github.com:huaroot/newhua.git
 	<%
 		//ServletContext appliaction
 		application.setAttribute("name", "张三");//增加
