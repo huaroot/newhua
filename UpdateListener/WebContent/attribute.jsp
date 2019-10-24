@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+插入数据：	
 	<%
 		//ServletContext appliaction
 		application.setAttribute("name", "张三");//增加
